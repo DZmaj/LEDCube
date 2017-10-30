@@ -2,7 +2,6 @@
 Various routines for a 3x3x3 matrix of PWM LEDs powered by a ATMega 2560.
 
 • An Arduino powered 3 x 3 x 3 LED matrix cube capable of individually turning on any combination of the 27 LEDs with the use of multiplexing.
-
 • All the LEDs were PWM LEDs, meaning their brightness can be controlled from 0-100%.
 
 • The microchip used, an ATMEGA 2560, does not have enough pins to control all 27 LEDs individually. To remedy this, multiplexing and 
